@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCVTest</string>
+    <string name="run_ocr">RUN OCR</string>
+    <string name="여기에결과">여기에 결과 출력</string>
+</resources>
